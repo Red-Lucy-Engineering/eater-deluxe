@@ -594,6 +594,7 @@
       "netlist": "",
       "plot": "gerber/",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -760,7 +761,7 @@
     "COMMENT3": "https://starlightnet.work/",
     "COMMENT4": "https://www.codeforniederrhein.de/",
     "ISSUE_DATE": "${CURRENT_DATE}",
-    "REVISION": "1.0",
+    "REVISION": "1.1",
     "TITLE": "\"Eater-Deluxe\" 6502-based personal computer"
   },
   "tuning_profiles": {
