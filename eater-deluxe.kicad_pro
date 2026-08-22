@@ -594,7 +594,7 @@
       "netlist": "",
       "plot": "gerber/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "eater-deluxe.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
