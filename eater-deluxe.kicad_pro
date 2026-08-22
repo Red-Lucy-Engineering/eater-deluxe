@@ -667,12 +667,84 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "CUI_PURCHASE_URL",
+          "name": "CUI_PURCHASE_URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRICE",
+          "name": "PRICE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PURCHASE-URL",
+          "name": "PURCHASE-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Type",
+          "name": "Sim.Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AVAILABILITY",
+          "name": "AVAILABILITY",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Beschreibung",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -746,7 +818,7 @@
         "uuid": "fb8dfef4-61ed-4530-987d-e2bf0fac227d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R4-5,#PWR7",
     "variants": []
   },
   "sheets": [
@@ -757,7 +829,7 @@
   ],
   "text_variables": {
     "COMMENT1": "based on https://eater.net/6502",
-    "COMMENT2": "https://redlucy404.de/",
+    "COMMENT2": "https://engineering.redlucy404.de/",
     "COMMENT3": "https://starlightnet.work/",
     "COMMENT4": "https://www.codeforniederrhein.de/",
     "ISSUE_DATE": "${CURRENT_DATE}",
